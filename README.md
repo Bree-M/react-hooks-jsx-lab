@@ -67,3 +67,5 @@ The `<About>` component should return the following JSX elements:
 - [Inline Style in JSX][style]
 
 [style]: https://reactjs.org/docs/dom-elements.html#style
+
+using javascript in react.
